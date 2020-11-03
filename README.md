@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Salesloft Challenge
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Overview
+
+This application allows a user to manage Salesloft People data.
 
 In the project directory, you can run:
 
